@@ -1,3 +1,9 @@
+#Alan Daniel Sigala Morales
+#Diego Fernando Badillo Vega
+#Luis Felipe Tarelo Ramírez
+#Irving Rodriguez Rodriguez
+#Moreno Camargo Raúl Alejandro
+
 import math
 import random
 
